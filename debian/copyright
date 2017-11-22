@@ -3,8 +3,7 @@ Upstream-Name: xsecurelock
 Source: https://github.com/google/xsecurelock
 
 Files: *
-Copyright: 2014-2017 Rudolf Polzer <rpolzer@google.com>
-           2014-2017 divVerent <divVerent@xonotic.org>
+Copyright: 2014-2017 Rudolf Polzer <rpolzer@google.com>, <divVerent@xonotic.org>
            2017 Markus Teich <mteich@google.com>
 License: Apache-2.0
 
